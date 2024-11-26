@@ -1,1 +1,0 @@
-document.body.appendChild((()=>{const n=document.createElement("h1");return n.innerHTML="Leonel António Domingos Cassul",n})());
